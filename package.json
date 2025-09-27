@@ -1,0 +1,16 @@
+{
+  "name": "productionbackend",
+  "version": "1.0.0",
+  "description": "Backend server for handling API requests, authentication, database operations, and business logic",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Manash Swain",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
